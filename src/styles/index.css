@@ -9,3 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.form {
+  max-width: 500px;
+  width: 100%;
+}
+p {
+  font-size: 18px;}
